@@ -1,0 +1,158 @@
+FileVersion = 1
+LastConfig = "Debug"
+LastPlatform = "Win64"
+RecentFilesList = ["src\\Program.bf", "src\\Matrix4x4.bf", "src\\TestMatrix4x4.bf", "src\\Math.bf", "c:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Diagnostics\\Debug.bf", "c:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Array.bf", "src\\Vector3.bf", "src\\Quaternion.bf", "src\\Vector4.bf", "src\\Vector2.bf"]
+
+[MainWindow]
+X = -1425
+Y = 73
+Width = 1414
+Height = 827
+ShowKind = "ShowMaximized"
+
+[MainDockingFrame]
+Type = "DockingFrame"
+SplitType = 2
+
+[[MainDockingFrame.DockedWidgets]]
+RequestedWidth = 438.0
+RequestedHeight = 653.0
+SizePriority = 653.0
+Type = "DockingFrame"
+SplitType = 1
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets]]
+IsFillWidget = true
+Permanent = true
+RequestedWidth = 150.0
+RequestedHeight = 653.0
+SizePriority = 150.0
+DefaultDocumentsTabbedView = true
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Program.bf"
+TabWidth = 96.0
+TabIsPinned = true
+Type = "SourceViewPanel"
+FilePath = "src\\Program.bf"
+CursorPos = 75
+ProjectName = "bug.NanInInverseMatrix"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "TestMatrix4x4.bf"
+TabWidth = 125.0
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\TestMatrix4x4.bf"
+CursorPos = 109
+ProjectName = "bug.NanInInverseMatrix"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Debug.bf"
+TabWidth = 84.0
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "c:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Diagnostics\\Debug.bf"
+CursorPos = 2216
+ProjectName = "corlib"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Array.bf"
+TabWidth = 76.0
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "c:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Array.bf"
+CursorPos = 6943
+ProjectName = "corlib"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Math.bf"
+TabWidth = 75.0
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\Math.bf"
+CursorPos = 2478
+ProjectName = "bug.NanInInverseMatrix"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Vector2.bf"
+TabWidth = 90.0
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\Vector2.bf"
+CursorPos = 3472
+ProjectName = "bug.NanInInverseMatrix"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Vector3.bf"
+TabWidth = 90.0
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\Vector3.bf"
+CursorPos = 3446
+ProjectName = "bug.NanInInverseMatrix"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Vector4.bf"
+TabWidth = 90.0
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\Vector4.bf"
+CursorPos = 4990
+ProjectName = "bug.NanInInverseMatrix"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Quaternion.bf"
+TabWidth = 110.0
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\Quaternion.bf"
+CursorPos = 5244
+ProjectName = "bug.NanInInverseMatrix"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Matrix4x4.bf"
+TabWidth = 102.0
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\Matrix4x4.bf"
+CursorPos = 73
+ProjectName = "bug.NanInInverseMatrix"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets]]
+RequestedWidth = 288.0
+RequestedHeight = 190.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Workspace"
+TabWidth = 115.0
+TabIsPinned = false
+Type = "ProjectPanel"
+
+[[MainDockingFrame.DockedWidgets]]
+RequestedWidth = 1148.0
+RequestedHeight = 676.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Output"
+TabWidth = 90.0
+TabIsPinned = false
+Type = "OutputPanel"
+
+[[BookmarkFolders]]
+Title = ""
+
+[OutputFilters]
+ModuleLoadMessages = true
+ModuleUnloadMessages = true
+ProcessExitMessages = true
+ThreadCreateMessages = true
+ThreadExitMessages = true
+SymbolLoadMessages = true
+ProgramOutput = true

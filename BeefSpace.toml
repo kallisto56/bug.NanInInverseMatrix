@@ -1,0 +1,5 @@
+FileVersion = 1
+Projects = {"bug.NanInInverseMatrix" = {Path = "."}}
+
+[Workspace]
+StartupProject = "bug.NanInInverseMatrix"
